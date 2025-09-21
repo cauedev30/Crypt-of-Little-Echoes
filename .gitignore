@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual envs
+venv/
+.venv/
+
+# IDEs/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build/Cache
+.dist/
+.build/
+
+# Game assets (user-provided) — keep folders, ignore files
+music/*
+sounds/*
+!music/.gitkeep
+!sounds/.gitkeep
