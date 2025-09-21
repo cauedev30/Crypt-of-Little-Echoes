@@ -6,11 +6,8 @@
 # - Nenhuma imagem externa é necessária (a animação dos sprites é desenhada proceduralmente).
 # - Músicas e sons devem ser fornecidos pelo usuário nas pastas /music e /sounds.
 #
-# Como executar:
-# 1) Coloque bg_loop.ogg em music/, hit.wav, pickup.wav, menu_click.wav em sounds/
-# 2) Execute com: pgzrun main.py
 #
-# Autor: Cursor (assistente), escrito para ser único e pedagógico.
+# Autor: Cauê Franco
 # Nome do jogo: "Crypt of Little Echoes"
 
 import math
